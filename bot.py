@@ -8,7 +8,7 @@ from time import sleep
 
 URL = 'https://www.anekdot.ru/release/anekdot/day/'
 
-api = '6067771419:AAGWeHYLyFTQdCdhkM3mnshBM0pNi5Np0d8'
+api = ''
 
 def parser(url):
     r = requests.get(URL)
